@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/school_profile/static/css/main.3118821e.chunk.css",
+    "main.js": "/school_profile/static/js/main.63100545.chunk.js",
+    "main.js.map": "/school_profile/static/js/main.63100545.chunk.js.map",
+    "runtime-main.js": "/school_profile/static/js/runtime-main.fea8e64f.js",
+    "runtime-main.js.map": "/school_profile/static/js/runtime-main.fea8e64f.js.map",
+    "static/js/2.b0a3a69a.chunk.js": "/school_profile/static/js/2.b0a3a69a.chunk.js",
+    "static/js/2.b0a3a69a.chunk.js.map": "/school_profile/static/js/2.b0a3a69a.chunk.js.map",
+    "index.html": "/school_profile/index.html",
+    "static/css/main.3118821e.chunk.css.map": "/school_profile/static/css/main.3118821e.chunk.css.map",
+    "static/js/2.b0a3a69a.chunk.js.LICENSE.txt": "/school_profile/static/js/2.b0a3a69a.chunk.js.LICENSE.txt",
+    "static/media/22.08d15394.jpg": "/school_profile/static/media/22.08d15394.jpg",
+    "static/media/dd.fb3a23ba.jpg": "/school_profile/static/media/dd.fb3a23ba.jpg",
+    "static/media/agency.min.css": "/school_profile/static/media/map-image.3cd6dd98.png",
+    "static/media/qq.f812c384.jpg": "/school_profile/static/media/qq.f812c384.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fea8e64f.js",
+    "static/js/2.b0a3a69a.chunk.js",
+    "static/css/main.3118821e.chunk.css",
+    "static/js/main.63100545.chunk.js"
+  ]
+}
